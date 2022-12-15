@@ -2,7 +2,7 @@ import argparse
 from Crypto.Hash import keccak
 
 def main():
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='Distribute exam tickets.')
     parser.add_argument('-f', '--file', metavar='PATH', required=True,
                         help='Path to the file where students names are stored.')
     parser.add_argument('-n', '--numbilets', metavar='NUMER_OF_TICKETS', type=int,
