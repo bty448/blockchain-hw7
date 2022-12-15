@@ -4,7 +4,7 @@
 
 Пример работы программы:
 
-> python main.py --file students.txt --numbilets 20 --parameter 42
+\> python main.py --file students.txt --numbilets 20 --parameter 42
 Иванов Иван Иванович: 3
 Ярцев Ярослав Ярославович: 1
 Петров Петр Петрович: 20
